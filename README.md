@@ -11,7 +11,7 @@
 
 ### Contact
 ![Velog](https://img.shields.io/badge/Velog-20C997?sytle=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@buaii/about)
-![Naver](https://img.shields.io/badge/Naver-03C75A?sytle=flat-square&logo=Naver&logoColor=white&link=mailto:giyen980503@naver.com)](mailto:giyen980503@naver.com
+![Naver](https://img.shields.io/badge/Naver-03C75A?sytle=flat-square&logo=Naver&logoColor=white&link=mailto:giyen980503@naver.com)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?sytle=flat-square&logo=Velog&logoColor=white&link=https://discordapp.com/users/533206187852824590)
 
 
