@@ -6,13 +6,13 @@
 
 🎓 김포고등학교 (2014.03 ~ 2017.02)
 
-
+<br></br>
 ### Experience
 🥇 Best of the Best (BoB) 13기 (2024.06 ~ 2025.03)
 
 🌱 Goorm 정보보호 마스터 양성 클래스 1기 (2023.05 ~ 2023.11)
 
-
+<br></br>
 ### Contact
 📳 010-7999-9493
 
@@ -20,5 +20,5 @@
 [![Naver](https://img.shields.io/badge/Naver-03C75A?sytle=flat-square&logo=Naver&logoColor=white&link=mailto:giyen980503@naver.com)](mailto:giyen980503@naver.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?sytle=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/533206187852824590)](https://discordapp.com/users/533206187852824590)
 
-
+<br></br>
 ![Buaii's GitHub stats](https://github-readme-stats.vercel.app/api?username=buaii&show_icons=true&theme=radical)
