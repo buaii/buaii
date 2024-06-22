@@ -17,4 +17,4 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?sytle=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/533206187852824590)](https://discordapp.com/users/533206187852824590)
 
 
-[![Buaii's github stats](https://github-readme-stats.vercel.app/api/pin/?username=buaii&show_icons=true&hide=["issues"])]
+![Buaii's GitHub stats](https://github-readme-stats.vercel.app/api?username=buaii&show_icons=true&theme=radical)
