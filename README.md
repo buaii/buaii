@@ -1,4 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbuaii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Java](https://img.shields.io/badge/Java-FC4C02?sytle=flat-square&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?sytle=flat-square&logo=Java&logoColor=white)
 
 # Buaii 
 ### Educational
@@ -12,12 +14,15 @@
 🌱 Goorm 정보보호 마스터 양성 클래스 1기 (2023.05 ~ 2023.11)
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=giyen98)](https://solved.ac/giyen98/)
+![Buaii's GitHub stats](https://github-readme-stats.vercel.app/api?username=buaii&show_icons=true&theme=radical)
+
+
 ### Contact
 📳 010-7999-9493
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?sytle=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@buaii/about)](https://velog.io/@buaii/about)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?sytle=flat-square&logo=Naver&logoColor=white&link=mailto:giyen980503@naver.com)](mailto:giyen980503@naver.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?sytle=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/533206187852824590)](https://discordapp.com/users/533206187852824590)
+                          
 
-
-![Buaii's GitHub stats](https://github-readme-stats.vercel.app/api?username=buaii&show_icons=true&theme=radical)
