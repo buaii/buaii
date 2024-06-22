@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbuaii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Buaii 😉
+# Buaii 
 ### Educational
 - 🎓 명지대학교 응용소프트웨어전공 (2019.03~ )
 - 🎓 김포고등학교 (2014.03 ~ 2017.02)
@@ -17,4 +17,4 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?sytle=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/533206187852824590)](https://discordapp.com/users/533206187852824590)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buaii&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Buaii's github stats](https://github-readme-stats.vercel.app/api/pin/?username=buaii&repo=github-readme-stats)](https://github.com/buaii/github-readme-stats)
