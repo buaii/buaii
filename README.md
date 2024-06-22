@@ -10,9 +10,9 @@
 - 🌱 Goorm 정보보호 마스터 양성 클래스 1기 (2023.05 ~ 2023.11)
 
 ### Contact
-![Velog](https://img.shields.io/badge/Velog-20C997?sytle=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@buaii/about)
+![Velog](https://img.shields.io/badge/Velog-20C997?sytle=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@buaii/about)(https://velog.io/@buaii/about)
 ![Naver](https://img.shields.io/badge/Naver-03C75A?sytle=flat-square&logo=Naver&logoColor=white&link=mailto:giyen980503@naver.com)
-![Discord](https://img.shields.io/badge/Discord-5865F2?sytle=flat-square&logo=Velog&logoColor=white&link=https://discordapp.com/users/533206187852824590)
+![Discord](https://img.shields.io/badge/Discord-5865F2?sytle=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/533206187852824590)(https://discordapp.com/users/533206187852824590)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buaii&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
